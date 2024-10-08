@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "167136545013",
+    "project_id": "loche-ffa",
+    "storage_bucket": "loche-ffa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167136545013:android:6cd5799c871dc9b75dddbc",
+        "android_client_info": {
+          "package_name": "com.example.fantasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167136545013-7vs786a9n4hndqpu2omq67k8d5un43u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHmYAhHufbspnx-7lwW_tg4v14kk_PsqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167136545013-7vs786a9n4hndqpu2omq67k8d5un43u4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "167136545013-doa23k44h5g0utuvbg7a43f4uljpk5ii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fantasy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167136545013:android:0cca441507c98ad15dddbc",
+        "android_client_info": {
+          "package_name": "com.trustictsolutions.loche"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167136545013-7vs786a9n4hndqpu2omq67k8d5un43u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHmYAhHufbspnx-7lwW_tg4v14kk_PsqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167136545013-7vs786a9n4hndqpu2omq67k8d5un43u4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "167136545013-doa23k44h5g0utuvbg7a43f4uljpk5ii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fantasy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,1518 @@
+{
+    "language": "English",
+    "@language": {
+      "description": "The current Language"
+    },
+    "login_to_your_account": "Login to your account",
+    "@login_to_your_account": {
+      "description": "Login to your account"
+    },
+    "login_to_your_account_desc": "Login to your account, and kick off your winning streak in Loche’s football universe",
+    "@login_to_your_account_desc": {
+      "description": "Login to your account description"
+    },
+    "phone_number": "Phone Number",
+    "@phone_number": {
+      "description": "Phone Number"
+    },
+    "pin": "Pin",
+    "@pin": {
+      "description": "Pin"
+    },
+    "value_can_not_be_empty": "Value can not be empty",
+    "@value_can_not_be_empty": {
+      "description": "Value can not be empty"
+    },
+    "please_enter_a_valid_phone_number": "Please enter a valid phone number",
+    "@please_enter_a_valid_phone_number": {
+      "description": "Please enter a valid phone number"
+    },
+    "pin_can_not_be_less_than_4_characters": "Pin can not be less than 4 characters",
+    "@pin_can_not_be_less_than_4_characters": {
+      "description": "Pin can not be less than 4 characters"
+    },
+    "forgot_pin": "Forgot Pin?",
+    "@forgot_pin": {
+      "description": "Forgot Pin?"
+    },
+    "login": "Login",
+    "@login": {
+      "description": "Login"
+    },
+    "are_you_new": "Are you new to Loche? ",
+    "@are_you_new": {
+      "description": "Are you new to Loche? "
+    },
+    "create_account": "Create Account",
+    "@create_account": {
+      "description": "Create Account"
+    },
+    "create_an_account": "Create an account",
+    "@create_an_account": {
+      "description": "Create an account"
+    },
+    "welcome": "Welcome! Create your dream team and rise to the top. Get ready to experience the thrill of victory on the pitch!",
+    "@welcome": {
+      "description": "Welcome"
+    },
+    "first_name": "First Name",
+    "@first_name": {
+      "description": "First Name"
+    },
+    "last_name": "Last Name",
+    "@last_name": {
+      "description": "Last Name"
+    },
+    "phone": "Phone",
+    "@phone": {
+      "description": "Phone"
+    },
+    "email": "Email",
+    "@email": {
+      "description": "Email"
+    },
+    "valid_email": "Please enter a valid email",
+    "@valid_email": {
+      "description": "Please enter a valid email"
+    },
+    "dob": "Date of birth",
+    "@dob": {
+      "description": "Date of birth"
+    },
+    "address": "Address",
+    "@address": {
+      "description": "Address"
+    },
+    "confirm_pin": "Confirm Pin",
+    "@confirm_pin": {
+      "description": "Confirm Pin"
+    },
+    "both_pins_must_be_the_same": "Both pins must be the same",
+    "@both_pins_must_be_the_same": {
+      "description": "Both pins must be the same"
+    },
+    "referral_does_not_exist": "Referral code does not exist",
+    "@referral_does_not_exist": {
+      "description": "Referral code does not exist"
+    },
+    "agree_to_the": "I agree to the ",
+    "@agree_to_the": {
+      "description": "I agree to the "
+    },
+    "terms_and_conditions": "Terms & Conditions",
+    "@terms_and_conditions": {
+      "description": "Terms & Conditions"
+    },
+    "and": " and ",
+    "@and": {
+      "description": " and "
+    },
+    "privacy_policy": "Privacy policy",
+    "@privacy_policy": {
+      "description": "Privacy policy"
+    },
+    "signup": "SignUp",
+    "@signup": {
+      "description": "SignUp"
+    },
+    "already_have_an_account": "Already have an account? ",
+    "@already_have_an_account": {
+      "description": "Already have an account? "
+    },
+    "referral_code_optional": "Referral Code (Optional)",
+    "@referral_code_optional": {
+      "description": "Referral Code (Optional)"
+    },
+    "recover_password": "Recover your password",
+    "@recover_password": {
+      "description": "Recover your password"
+    },
+    "enter_phone_number_for_verification": "Enter your phone number here.You'll receive a verification code from us.",
+    "@enter_phone_number_for_verification": {
+      "description": "Enter your phone number here.You'll receive a verification code from us."
+    },
+    "submit": "Submit",
+    "@submit": {
+      "description": "Submit"
+    },
+    "verify_phone_number": "Verify your phone number",
+    "@verify_phone_number": {
+      "description": "Verify your phone number"
+    },
+    "we_have_sent_to": "We have sent a 5-digit code to",
+    "@we_have_sent_to": {
+      "description": "We have sent a 5-digit code to"
+    },
+    "please_fill_all_the_fields": "Please fill all the fields",
+    "@please_fill_all_the_fields": {
+      "description": "Please fill all the fields"
+    },
+    "pin_is_wrong": "Pin is wrong",
+    "@pin_is_wrong": {
+      "description": "Pin is wrong"
+    },
+    "verify": "Verify",
+    "@verify": {
+      "description": "Verify"
+    },
+    "resend_otp": "Resend OTP in ",
+    "@resend_otp": {
+      "description": "Resend OTP in "
+    },
+    "did_not_receive_code": "Didn’t receive code? ",
+    "@did_not_receive_code": {
+      "description": "Didn’t receive code? "
+    },
+    "resend": "Resend",
+    "@resend": {
+      "description": "Resend"
+    },
+    "change_password": "Change password",
+    "@change_password": {
+      "description": "Change password"
+    },
+    "please_create_and_confirm": "Please create a new password here and confirm.",
+    "@please_create_and_confirm": {
+      "description": "Please create a new password here and confirm."
+    },
+    "save": "Save",
+    "@save": {
+      "description": "Save"
+    },
+    "pin_reset_successful": "Pin Reset Successful",
+    "@pin_reset_successful": {
+      "description": "Pin Reset Successful"
+    },
+    "your_password_has_been_changed": "Your password has been changed, please go to the login page and sign in",
+    "@your_password_has_been_changed": {
+      "description": "Your password has been changed, please go to the login page and sign in"
+    },
+    "awesome_pin_reset_successful": "Awesome. You have successfully reset the pin for your account.",
+    "@awesome_pin_reset_successful": {
+      "description": "Awesome. You have successfully reset the pin for your account."
+    },
+    "go_to_login": "Go To Login Page",
+    "@go_to_login": {
+      "description": "Go To Login Page"
+    },
+    "otp_resent_successfully": "OTP resent successfully",
+    "@otp_resent_successfully": {
+      "description": "OTP resent successfully"
+    },
+    "ranking": "Ranking",
+    "@ranking": {
+      "description": "Ranking"
+    },
+    "take_control_of_your_profile": "Take control of your profile, rewards, and credits - unleash the power of customization and enjoy the full experience!",
+    "@take_control_of_your_profile": {
+      "description": "Take control of your profile, rewards, and credits - unleash the power of customization and enjoy the full experience!"
+    },
+    "fixtures": "Fixtures",
+    "@fixtures": {
+      "description": "Fixtures"
+    },
+    "discover_the_winning_playbook": "Discover the winning playbook. Read and understand the guidelines and terms to play smarter and win bigger.",
+    "@discover_the_winning_playbook": {
+      "description": "Discover the winning playbook. Read and understand the guidelines and terms to play smarter and win bigger."
+    },
+    "tap_twice_to_exit": "Tap twice to exit",
+    "@tap_twice_to_exit": {
+      "description": "Tap twice to exit"
+    },
+    "home": "Home",
+    "@home": {
+      "description": "Home"
+    },
+    "profile": "Profile",
+    "@profile": {
+      "description": "Profile"
+    },
+    "info": "Info",
+    "@info": {
+      "description": "Info"
+    },
+    "my_team": "My Team",
+    "@my_team": {
+      "description": "My Team"
+    },
+    "transfers": "Transfers",
+    "@transfers": {
+      "description": "Transfers"
+    },
+    "join": "Join",
+    "@join": {
+      "description": "Join"
+    },
+    "join_now": "Join Now",
+    "@join_now": {
+      "description": "Join Now"
+    },
+    "ft": "FT : ",
+    "@ft": {
+      "description": "FT : "
+    },
+    "unlimited": "Unlimited",
+    "@unlimited": {
+      "description": "Unlimited"
+    },
+    "bank": "Bank",
+    "@bank": {
+      "description": "Bank"
+    },
+    "no_active": "No Active",
+    "@no_active": {
+      "description": "No Active"
+    },
+    "gw": "GW",
+    "@gw": {
+      "description": "GW"
+    },
+    "deadline": "Deadline",
+    "@deadline": {
+      "description": "Deadline"
+    },
+    "game_week": "Game Week",
+    "@game_week": {
+      "description": "Game Week"
+    },
+    "can_not_switch": "Can not switch a goal keeper with other positions",
+    "@can_not_switch": {
+      "description": "Can not switch a goal keeper with other positions"
+    },
+    "at_least_one_forward": "At least one forward is required",
+    "@at_least_one_forward": {
+      "description": "At least one forward is required"
+    },
+    "at_least_two_midfielders": "At least two midfielders are required",
+    "@at_least_two_midfielders": {
+      "description": "At least two midfielders are required"
+    },
+    "at_least_three_defenders": "At least three defenders are required",
+    "@at_least_three_defenders": {
+      "description": "At least three defenders are required"
+    },
+    "player_information": "Player Information",
+    "@player_information": {
+      "description": "Player Information"
+    },
+    "transfer": "Transfer",
+    "@transfer": {
+      "description": "Transfer"
+    },
+    "all_players": "All Players",
+    "@all_players": {
+      "description": "All Players"
+    },
+    "search_all_players": "Search All Players",
+    "@search_all_players": {
+      "description": "Search All Players"
+    },
+    "filter_by_club": "Filter by club",
+    "@filter_by_club": {
+      "description": "Filter by club"
+    },
+    "gk": "GK",
+    "@gk": {
+      "description": "GK"
+    },
+    "def": "DEF",
+    "@def": {
+      "description": "DEF"
+    },
+    "mid": "MID",
+    "@mid": {
+      "description": "MID"
+    },
+    "forward": "FOR",
+    "@forward": {
+      "description": "FOR"
+    },
+    "details": "Details",
+    "@details": {
+      "description": "Details"
+    },
+    "team": "Team:",
+    "@team": {
+      "description": "Team:"
+    },
+    "price": "Price:",
+    "@price": {
+      "description": "Price:"
+    },
+    "points": "Points",
+    "@points": {
+      "description": "Points"
+    },
+    "switched_by": "Switched By",
+    "@switched_by": {
+      "description": "Switched By"
+    },
+    "more": "More",
+    "@more": {
+      "description": "More"
+    },
+    "budget": "Budget",
+    "@budget": {
+      "description": "Budget"
+    },
+    "total_fp": "Total FP",
+    "@total_fp": {
+      "description": "Total FP"
+    },
+    "fp": "FP",
+    "@fp": {
+      "description": "FP"
+    },
+    "select_a_gw": "Select a Gameweek",
+    "@select_a_gw": {
+      "description": "Select a Gameweek"
+    },
+    "current": "current",
+    "@current": {
+      "description": "current"
+    },
+    "you_have_not_joined_any_gw": "You have not joined any game week",
+    "@you_have_not_joined_any_gw": {
+      "description": "You have not joined any game week"
+    },
+    "weekly": "Weekly",
+    "@weekly": {
+      "description": "Weekly"
+    },
+    "monthly": "Monthly",
+    "@monthly": {
+      "description": "Monthly"
+    },
+    "yearly": "Yearly",
+    "@yearly": {
+      "description": "Yearly"
+    },
+    "months": "Months",
+    "@months": {
+      "description": "Months"
+    },
+    "game_weeks": "Game Weeks",
+    "@game_weeks": {
+      "description": "Game Weeks"
+    },
+    "best_manager_week": "Best manager of the week",
+    "@best_manager_week": {
+      "description": "Best manager of the week"
+    },
+    "best_manager_month": "Best manager of the month",
+    "@best_manager_month": {
+      "description": "Best manager of the month"
+    },
+    "best_manager_year": "Best manager of the year",
+    "@best_manager_year": {
+      "description": "Best manager of the year"
+    },
+    "leaderboard_not_available": "Leaderboard not available yet!",
+    "@leaderboard_not_available": {
+      "description": "Leaderboard not available yet!"
+    },
+    "live": "Live",
+    "@live": {
+      "description": "Live"
+    },
+    "this_is_not_the_final_result": "This is not the final result",
+    "@this_is_not_the_final_result": {
+      "description": "This is not the final result"
+    },
+    "deposit": "Deposit",
+    "@deposit": {
+      "description": "Deposit"
+    },
+    "transfer": "Transfer",
+    "@transfer": {
+      "description": "Transfer"
+    },
+    "account_information": "Account information",
+    "@account_information": {
+      "description": "Account information"
+    },
+    "personal_information": "Personal Information",
+    "@personal_information": {
+      "description": "Personal Information"
+    },
+    "change_pin": "Change Pin",
+    "@change_pin": {
+      "description": "Change Pin"
+    },
+    "your_referral_code": "Your Referral Code",
+    "@your_referral_code": {
+      "description": "Your Referral Code"
+    },
+    "request_your_referral_code": "Request To Get A Referral Code",
+    "@request_your_referral_code": {
+      "description": "Request To Get A Referral Code"
+    },
+    "text_copied": "Text Copied!",
+    "@text_copied": {
+      "description": "Text Copied!"
+    },
+    "wallet": "Wallet",
+    "@wallet": {
+      "description": "Wallet"
+    },
+    "agents_list": "Agent's Transaction",
+    "@agents_list": {
+      "description": "Agent's Transaction"
+    },
+    "credit": "Credit",
+    "@credit": {
+      "description": "Credit"
+    },
+    "deposit_credit": "Deposit credit",
+    "@deposit_credit": {
+      "description": "Deposit credit"
+    },
+    "transfer_credit": "Transfer credit",
+    "@transfer_credit": {
+      "description": "Transfer credit"
+    },
+    "transfer_history": "Transaction History",
+    "@transfer_history": {
+      "description": "Transaction History"
+    },
+    "prize": "Prize",
+    "@prize": {
+      "description": "Prize"
+    },
+    "my_awards": "My Awards",
+    "@my_awards": {
+      "description": "My Awards"
+    },
+    "notes": "Notes",
+    "@notes": {
+      "description": "Notes"
+    },
+    "scouts": "Scouts",
+    "@scouts": {
+      "description": "Scouts"
+    },
+    "logout": "Logout",
+    "@logout": {
+      "description": "Logout"
+    },
+    "are_you_sure_you_want_to_logout": "Are you sure you want to logout?",
+    "@are_you_sure_you_want_to_logout": {
+      "description": "Are you sure you want to logout?"
+    },
+    "cancel": "Cancel",
+    "@cancel": {
+      "description": "Cancel"
+    },
+    "older_pin": "Older Pin",
+    "@older_pin": {
+      "description": "Older Pin"
+    },
+    "new_pin": "New Pin",
+    "@new_pin": {
+      "description": "New Pin"
+    },
+    "withdraw": "Withdraw",
+    "@withdraw": {
+      "description": "Withdraw"
+    },
+    "commission_history": "Commission History",
+    "@commission_history": {
+      "description": "Commission History"
+    },
+    "no_commission_history": "You have not yet made any commissions!",
+    "@no_commission_history": {
+      "description": "You have not yet made any commissions!"
+    },
+    "earned": "Earned",
+    "@earned": {
+      "description": "Earned"
+    },
+    "available": "Available",
+    "@available": {
+      "description": "Available"
+    },
+    "users_who_used_your_code": "Users who used your referral code",
+    "@users_who_used_your_code": {
+      "description": "Users who used your referral code"
+    },
+    "agents": "Agents",
+    "@agents": {
+      "description": "Agents"
+    },
+    "no_agents_joined": "No Agents Joined One Game Week",
+    "@no_agents_joined": {
+      "description": "No Agents Joined One Game Week"
+    },
+    "coin": "Coin",
+    "@coin": {
+      "description": "Coin"
+    },
+    "send": "Send",
+    "@send": {
+      "description": "Send"
+    },
+    "top_up_your_credit": "Top up your credit by depositing now",
+    "@top_up_your_credit": {
+      "description": "Top up your credit by depositing now"
+    },
+    "amount": "Amount",
+    "@amount": {
+      "description": "Amount"
+    },
+    "amount_can_not_be_empty": "Amount can not be empty",
+    "@amount_can_not_be_empty": {
+      "description": "Amount can not be empty"
+    },
+    "you_need_at_least_45": "You need at least collection of 45 coin in your app credit",
+    "@you_need_at_least_45": {
+      "description": "You need at least collection of 45 coin in your app credit"
+    },
+    "transfer_your_credit": "Transfer your credit to other account",
+    "@transfer_your_credit": {
+      "description": "Transfer your credit to other account"
+    },
+    "insufficient_balance": "Insufficient Balance",
+    "@insufficient_balance": {
+      "description": "Insufficient Balance"
+    },
+    "transaction": "Transaction",
+    "@transaction": {
+      "description": "Transaction"
+    },
+    "you_have_not_yet_made_any_transaction": "You have not yet made any transactions!",
+    "@you_have_not_yet_made_any_transaction": {
+      "description": "You have not yet made any transactions!"
+    },
+    "transaction_by": "Transactions by",
+    "@transaction_by": {
+      "description": "Transactions by"
+    },
+    "transaction_type": "Transaction Type",
+    "@transaction_type": {
+      "description": "Transaction Type"
+    },
+    "date": "Date",
+    "@date": {
+      "description": "Date"
+    },
+    "you_have_not_yet_won_any_awards": "You have not yet won any awards",
+    "@you_have_not_yet_won_any_awards": {
+      "description": "You have not yet won any awards"
+    },
+    "prize_withdrawal": "Prize Withdrawal",
+    "@prize_withdrawal": {
+      "description": "Prize Withdrawal"
+    },
+    "lists_of_awards": "Lists of Awards",
+    "@lists_of_awards": {
+      "description": "Lists of Awards"
+    },
+    "pt": "Pt",
+    "@pt": {
+      "description": "Pt"
+    },
+    "you_have_not_yet_created_a_note": "You have not yet created a note.",
+    "@you_have_not_yet_created_a_note": {
+      "description": "You have not yet created a note."
+    },
+    "are_you_sure_to_delete_notes": "Are you sure you want to delete all notes?",
+    "@are_you_sure_to_delete_notes": {
+      "description": "Are you sure you want to delete all notes?"
+    },
+    "delete_all": "Delete all",
+    "@delete_all": {
+      "description": "Delete all"
+    },
+    "you_have_not_added_to_watch_list": "You have not yet added a player to the watch list",
+    "@you_have_not_added_to_watch_list": {
+      "description": "You have not yet added a player to the watch list"
+    },
+    "informations": "Informations",
+    "@informations": {
+      "description": "Informations"
+    },
+    "poll": "Poll",
+    "@poll": {
+      "description": "Poll"
+    },
+    "player_stat": "Player Stat",
+    "@player_stat": {
+      "description": "Player Stat"
+    },
+    "player_selection_stat": "Player Selection Stat",
+    "@player_selection_stat": {
+      "description": "Player Selection Stat"
+    },
+    "injured_banned_list": "Injured/Banned Players List",
+    "@injured_banned_list": {
+      "description": "Injured/Banned Players List"
+    },
+    "guides": "GUIDES",
+    "@guides": {
+      "description": "GUIDES"
+    },
+    "how_to_play": "How to play in Loche",
+    "@how_to_play": {
+      "description": "How to play in Loche"
+    },
+    "points_system": "Points system of Loche",
+    "@points_system": {
+      "description": "Points system of Loche"
+    },
+    "support": "SUPPORT",
+    "@support": {
+      "description": "SUPPORT"
+    },
+    "faq": "FAQ",
+    "@faq": {
+      "description": "FAQ"
+    },
+    "feedback": "Feedback",
+    "@feedback": {
+      "description": "Feedback"
+    },
+    "about_us": "About us",
+    "@about_us": {
+      "description": "About us"
+    },
+    "open": "Open",
+    "@open": {
+      "description": "Open"
+    },
+    "closed": "Closed",
+    "@closed": {
+      "description": "Closed"
+    },
+    "no_polls": "There are no polls available!",
+    "@no_polls": {
+      "description": "There are no polls available!"
+    },
+    "all_time": "All Time",
+    "@all_time": {
+      "description": "All Time"
+    },
+    "all_time_summary": "All Time Summary",
+    "@all_time_summary": {
+      "description": "All Time Summary"
+    },
+    "summary": "Summary",
+    "@summary": {
+      "description": "Summary"
+    },
+    "most_selected_player": "Most Selected Player",
+    "@most_selected_player": {
+      "description": "Most Selected Player"
+    },
+    "most_captained_player": "Most Captained Player",
+    "@most_captained_player": {
+      "description": "Most Captained Player"
+    },
+    "most_vice_captained_player": "Most Vice Captained Player",
+    "@most_vice_captained_player": {
+      "description": "Most Vice Captained Player"
+    },
+    "most_bought_player": "Most Bought Player",
+    "@most_bought_player": {
+      "description": "Most Bought Player"
+    },
+    "most_sold_player": "Most Sold Player",
+    "@most_sold_player": {
+      "description": "Most Sold Player"
+    },
+    "transfers_made": "Transfers Made",
+    "@transfers_made": {
+      "description": "Transfers Made"
+    },
+    "injured_banned_players": "Injured/Banned Players",
+    "@injured_banned_players": {
+      "description": "Injured/Banned Players"
+    },
+    "no_players_on_the_list": "No players on the list",
+    "@no_players_on_the_list": {
+      "description": "No players on the list"
+    },
+    "create_your_team": "Create your Team",
+    "@create_your_team": {
+      "description": "Create your Team"
+    },
+    "create_your_team_welcome": "Welcome to Loche Fantasy Football Manager after completing signing up you will be navigated to the player selection page where you will get 100 Loche Coins which you will need to spend wisely as you will have to select a squad of 15 players that consists of 2 Goalkeepers, 5 defenders, 5 Midfielders, 3 Forwards. A maximum of 3 players can be selected from a single Premier League team .From your 15 selected players, select your best 11 players and 4 bench players to form your dream team by the game week deadline. These 11 players will score your total game week fanatsy points.",
+    "@create_your_team_welcome": {
+      "description": "Welcome to Loche"
+    },
+    "pro_tip_one": "In the world of fantasy football, wise player selection is an art. Selecting 3 defenders from one team is not recommended because if their team concedes a goal all three will lose points so choose all your players wisely.",
+    "@pro_tip_one": {
+      "description": "Pro Tip one"
+    },
+    "what_are_loche_credits": "What are Loche credits?",
+    "@what_are_loche_credits": {
+      "description": "What are Loche credits?"
+    },
+    "what_are_loche_credits_desc": "Loche credits are the cost of a player. In-form and star players typically cost more loche coins, while inexperienced or non-regular starts cost less.",
+    "@what_are_loche_credits_desc": {
+      "description": "What are Loche credits? desc"
+    },
+    "what_are_fantasy_points": "What are fantasy points?",
+    "@what_are_fantasy_points": {
+      "description": "What are fantasy points?"
+    },
+    "what_are_fantasy_points_desc": "Fantasy points are earned by players based on how they perform in the real-life match. For example, players earn points for scoring goals, assisting goals, completing tackles, keeping clean sheets and many more actions.",
+    "@what_are_fantasy_points_desc": {
+      "description": "What are fantasy points? desc"
+    },
+    "joining_leagues": "Joining Leagues",
+    "@joining_leagues": {
+      "description": "Joining Leagues"
+    },
+    "joining_leagues_desc": "After completing choosing squads you will need to pay the 45 coin entry fee to be eligible for the weekly leaderboard in which users who have deposited the entry fee will be eligible to win the weekly, monthly and yearly prizes!",
+    "@joining_leagues_desc": {
+      "description": "Joining Leagues desc"
+    },
+    "pro_tip_two": "Regularly update your squad based on the latest information and fixtures. Staying engaged and making timely transfers can give you an edge over less active managers.",
+    "@pro_tip_two": {
+      "description": "Pro tip two"
+    },
+    "pro_tip": "Pro tip: ",
+    "@pro_tip": {
+      "description": "Pro tip"
+    },
+    "joining_game_week_process": "Joining Game Week Process",
+    "@joining_game_week_process": {
+      "description": "Joining Game Week Process"
+    },
+    "joining_game_week_process_desc": "Ready to conquer? Once you've crafted your winning team, the next stride is to secure your entry by making a payment and joining the contest. After completing the process you will pay the 45 coin entry fee from your Loche wallet directly or you can deposit directly from Chapa payment system which has Telebirr, CBE birr, Direct deposit and So on. the transaction process will go on smoothly.",
+    "@joining_game_week_process_desc": {
+      "description": "Joining Game Week Process desc"
+    },
+    "pro_tip_three": "You can deposit and keep your money in your Loche wallet so you can easily join the contest and be eligible for the weekly, monthly and yearly prizes.",
+    "@pro_tip_three": {
+      "description": "Pro Tip three"
+    },
+    "payment_process": "Payment Process",
+    "@payment_process": {
+      "description": "Payment Process"
+    },
+    "payment_process_desc": "Once the matches are  live, the players in your team will start earning points based on their real-life actions. You can follow your team’s performance throughout the games at the team preview section. When the game week matches are completed, please allow 1-4 hours for the leaderboard to continue adjusting.",
+    "@payment_process_desc": {
+      "description": "Payment Process desc"
+    },
+    "good_luck": "Good luck!",
+    "@good_luck": {
+      "description": "Good luck!"
+    },
+    "good_luck_desc": "Good luck, contenders! May your skills shine brightly and your strategies lead you to triumph. Give it your all, and may victory be yours in this thrilling contest!",
+    "@good_luck_desc": {
+      "description": "Good luck! desc"
+    },
+    "goal_scored_for": "Goal Scored By A Forward",
+    "@goal_scored_for": {
+      "description": "Goal Scored By A Forward"
+    },
+    "goal_scored_for_desc": "A goal scored by a player included as a forward",
+    "@goal_scored_for_desc": {
+      "description": "A goal scored by a player included as a forward"
+    },
+    "goal_scored_mid": "Goal Scored By A Midfielder",
+    "@goal_scored_mid": {
+      "description": "Goal Scored By A Midfielder"
+    },
+    "goal_scored_mid_desc": "A goal scored by a player included as a midfielder",
+    "@goal_scored_mid_desc": {
+      "description": "A goal scored by a player included as a midfielder"
+    },
+    "goal_scored_def": "Goal Scored By A Defender/GK",
+    "@goal_scored_def": {
+      "description": "Goal Scored By A Defender/GK"
+    },
+    "goal_scored_def_desc": "A goal scored by a player included as a Defender/Goalkeeper",
+    "@goal_scored_def_desc": {
+      "description": "A goal scored by a player included as a Defender/Goalkeeper"
+    },
+    "assist": "Assist",
+    "@assist": {
+      "description": "Assist"
+    },
+    "assist_desc": "The player who makes the final pass before a goal",
+    "@assist_desc": {
+      "description": "The player who makes the final pass before a goal"
+    },
+    "shot_on_target": "Shot On Target",
+    "@shot_on_target": {
+      "description": "Shot On Target"
+    },
+    "shot_on_target_desc": "If the ball stays within the goal frame i.e. saved by the goalkeeper or scored",
+    "@shot_on_target_desc": {
+      "description": "If the ball stays within the goal frame i.e. saved by the goalkeeper or scored"
+    },
+    "chance_created": "Two Chances Created",
+    "@chance_created": {
+      "description": "Two Chances Created"
+    },
+    "chance_created_desc": "When a players creates every two goal scoring opportunities",
+    "@chance_created_desc": {
+      "description": "When a players creates every two goal scoring opportunities"
+    },
+    "passes_completed": "Every 20 Passes Completed",
+    "@passes_completed": {
+      "description": "Every 20 Passes Completed"
+    },
+    "passes_completed_desc": "For every 20 passes completed by a player",
+    "@passes_completed_desc": {
+      "description": "For every 20 passes completed by a player"
+    },
+    "tackle_won": "Tackle Won",
+    "@tackle_won": {
+      "description": "Tackle Won"
+    },
+    "tackle_won_desc": "For every successful tackles made by a player",
+    "@tackle_won_desc": {
+      "description": "For every successful tackles made by a player"
+    },
+    "interception": "Interception",
+    "@interception": {
+      "description": "Interception"
+    },
+    "interception_desc": "For every successful interceptions made by a player",
+    "@interception_desc": {
+      "description": "For every successful interceptions made by a player"
+    },
+    "goal_keeper_save": "Saves By Goal Keeper",
+    "@goal_keeper_save": {
+      "description": "Saves By Goal Keeper"
+    },
+    "goal_keeper_save_desc": "For every shots saved by the goal keeper",
+    "@goal_keeper_save_desc": {
+      "description": "For every shots saved by the goal keeper"
+    },
+    "clean_sheet": "Clean Sheets",
+    "@clean_sheet": {
+      "description": "Clean Sheets"
+    },
+    "clean_sheet_desc": "For a clean sheet kept for over 54 minutes by the defenders and goalkeepers",
+    "@clean_sheet_desc": {
+      "description": "For a clean sheet kept for over 54 minutes by the defenders and goalkeepers"
+    },
+    "penalty_saved": "Penalty Saved",
+    "@penalty_saved": {
+      "description": "Penalty Saved"
+    },
+    "penalty_saved_desc": "For a penalty Saved by the Goalkeeper",
+    "@penalty_saved_desc": {
+      "description": "For a penalty Saved by the Goalkeeper"
+    },
+    "starting": "Starting 11",
+    "@starting": {
+      "description": "Starting 11"
+    },
+    "starting_desc": "For being included in the starting eleven and starting the match",
+    "@starting_desc": {
+      "description": "For being included in the starting eleven and starting the match"
+    },
+    "substitute": "Substitute",
+    "@substitute": {
+      "description": "Substitute"
+    },
+    "substitute_desc": "For coming on and making an appearance as a substitute",
+    "@substitute_desc": {
+      "description": "For coming on and making an appearance as a substitute"
+    },
+    "own_goal": "Own Goal",
+    "@own_goal": {
+      "description": "Own Goal"
+    },
+    "own_goal_desc": "Deducted For a goal scored by a player on his own net",
+    "@own_goal_desc": {
+      "description": "Deducted For a goal scored by a player on his own net"
+    },
+    "penalty_missed": "Penalty Missed",
+    "@penalty_missed": {
+      "description": "Penalty Missed"
+    },
+    "penalty_missed_desc": "Deducted for a penalty missed by a player",
+    "@penalty_missed_desc": {
+      "description": "Deducted for a penalty missed by a player"
+    },
+    "yellow_card": "Yellow Card",
+    "@yellow_card": {
+      "description": "Yellow Card"
+    },
+    "yellow_card_desc": "Deducted from a player for receiving a yellow card",
+    "@yellow_card_desc": {
+      "description": "Deducted from a player for receiving a yellow card"
+    },
+    "red_card": "Red Card",
+    "@red_card": {
+      "description": "Red Card"
+    },
+    "red_card_desc": "Deducted from a player for receiving a red card",
+    "@red_card_desc": {
+      "description": "Deducted from a player for receiving a red card"
+    },
+    "two_goals_conceded": "Two Goals Conceded",
+    "@two_goals_conceded": {
+      "description": "Two Goals Conceded"
+    },
+    "two_goals_conceded_desc": "Every two goals conceded 1 points will be deducted from Defenders/Goalkeeper",
+    "@two_goals_conceded_desc": {
+      "description": "Every two goals conceded 1 points will be deducted from Defenders/Goalkeeper"
+    },
+    "point_system_desc": "Check below to see how your players score points on Loche. Discover how goals, assists, clean sheets, saves, and more contribute to your team's overall score. Stay ahead of the game as you strategize and select players based on their potential to rack up points.",
+    "@point_system_desc": {
+      "description": "Check below to see how your players score points on Loche. Discover how goals, assists, clean sheets, saves, and more contribute to your team's overall score. Stay ahead of the game as you strategize and select players based on their potential to rack up points."
+    },
+    "attacking_points": "Attacking Points",
+    "@attacking_points": {
+      "description": "Attacking Points"
+    },
+    "defending_points": "Defending Points",
+    "@defending_points": {
+      "description": "Defending Points"
+    },
+    "other_points": "Other Points",
+    "@other_points": {
+      "description": "Other Points"
+    },
+    "negative_points": "Negative Points",
+    "@negative_points": {
+      "description": "Negative Points"
+    },
+    "remark": "Remark!",
+    "@remark": {
+      "description": "Remark!"
+    },
+    "remark_one": "A Player will continue to be penalized for goals conceded by their team if that player receives a red card.",
+    "@remark_one": {
+      "description": "Remark one"
+    },
+    "remark_two": "Any points deducted for yellow cards is not included in red card points deduction.",
+    "@remark_two": {
+      "description": "Remark two"
+    },
+    "remark_three": "Points awarded in-game are subject to change up until one hour after the final whistle of the last match of any given day. No further adjustments to points will be made once the points have all been updated on that day.",
+    "@remark_three": {
+      "description": "Remark three"
+    },
+    "remark_four": "We get all our stats from Entity Sports, However, in case there is a clear error from our provider’s end, we may modify the stats.",
+    "@remark_four": {
+      "description": "Remark four"
+    },
+    "frequently_asked_question": "Frequently Asked Questions",
+    "@frequently_asked_question": {
+      "description": "Frequently Asked Questions"
+    },
+    "frequently_asked_question_desc": "Find solutions to the most commonly asked questions by our users. We're here to help and provide the information you need to enhance your experience.",
+    "@frequently_asked_question_desc": {
+      "description": "Frequently Asked Questions dec"
+    },
+    "last_updated": "Last Updated: ",
+    "@last_updated": {
+      "description": "Last Updated: "
+    },
+    "thank_you_feedback": "Thank you!, Your Feedback has been successfully sent!",
+    "@thank_you_feedback": {
+      "description": "Thank you!, Your Feedback has been successfully sent!"
+    },
+    "feedbacks": "Feedbacks",
+    "@feedbacks": {
+      "description": "Feedbacks"
+    },
+    "feedbacks_desc": "We want to know what you thought of your experience at Loche. We would like to hear your feedback.",
+    "@feedbacks_desc": {
+      "description": "We want to know what you thought of your experience at Loche. We would like to hear your feedback."
+    },
+    "categories": "Categories",
+    "@categories": {
+      "description": "Categories"
+    },
+    "your_feedback": "Your Feedback",
+    "@your_feedback": {
+      "description": "Your Feedback"
+    },
+    "value_can_not_be_less_than_ten": "Value can not be less than 10 characters",
+    "@value_can_not_be_less_than_ten": {
+      "description": "Value can not be less than 10 characters"
+    },
+    "value_your_feedback": "We value your feedback and are committed to enhancing your app experience based on your input.",
+    "@value_your_feedback": {
+      "description": "We value your feedback and are committed to enhancing your app experience based on your input."
+    },
+    "options": "Options",
+    "@options": {
+      "description": "Options"
+    },
+    "short_brief": "Short brief",
+    "@short_brief": {
+      "description": "Short brief"
+    },
+    "latest_version": "Latest Version:",
+    "@latest_version": {
+      "description": "Latest Version:"
+    },
+    "thank_you": "Thank you!",
+    "@thank_you": {
+      "description": "Thank you!"
+    },
+    "purchase_package": "Purchase package",
+    "@purchase_package": {
+      "description": "Purchase package"
+    },
+    "joined": "Joined",
+    "@joined": {
+      "description": "Joined"
+    },
+    "deadline_home": "Deadline",
+    "@deadline_home": {
+      "description": "Deadline"
+    },
+    "passed": "Passed",
+    "@passed": {
+      "description": "Passed"
+    },
+    "users_who_used_referral_code": "Users who used your referral code",
+    "@users_who_used_referral_code": {
+      "description": "Users who used your referral code"
+    },
+    "get_a_referral_code": "Get a referral code and work with us!!!",
+    "@get_a_referral_code": {
+      "description": "Get a referral code and work with us!!!"
+    },
+    "fill_out_the_details": "Fill out the details below. (At least one social media is required)",
+    "@fill_out_the_details": {
+      "description": "Fill out the details below. (At least one social media is required)"
+    },
+    "current_job": "Current Job",
+    "@current_job": {
+      "description": "Current Job"
+    },
+    "user_traction": "User Traction",
+    "@user_traction": {
+      "description": "User Traction"
+    },
+    "instagram": "Instagram",
+    "@instagram": {
+      "description": "Instagram"
+    },
+    "facebook": "Facebook",
+    "@facebook": {
+      "description": "Facebook"
+    },
+    "tiktok": "Tiktok",
+    "@tiktok": {
+      "description": "Tiktok"
+    },
+    "request": "Request",
+    "@request": {
+      "description": "Request"
+    },
+    "payment": "Payment",
+    "@payment": {
+      "description": "Payment"
+    },
+    "make_a_payment_and_dive": "Make a payment and dive into the thrilling contest, all while eagerly anticipating the exciting rewards that await you",
+    "@make_a_payment_and_dive": {
+      "description": "Make a payment and dive into the thrilling contest, all while eagerly anticipating the exciting rewards that await you"
+    },
+    "payment_methods": "Payment Methods",
+    "@payment_methods": {
+      "description": "Payment Methods"
+    },
+    "choose_your_preferred_payment": "Choose your preferred payment method from the options below and proceed with the payment process.",
+    "@choose_your_preferred_payment": {
+      "description": "Choose your preferred payment method from the options below and proceed with the payment process."
+    },
+    "next": "Next",
+    "@next": {
+      "description": "Next"
+    },
+    "package": "Package",
+    "@package": {
+      "description": "Package"
+    },
+    "purchase_a_package_with_app_credit": "Purchase a package with many discount offers from your app credit",
+    "@purchase_a_package_with_app_credit": {
+      "description": "Purchase a package with many discount offers from your app credit"
+    },
+    "purchase_a_package_with_bank": "Purchase a package with many discount offers straight from your bank",
+    "@purchase_a_package_with_bank": {
+      "description": "Purchase a package with many discount offers straight from your bank"
+    },
+    "choose": "Choose",
+    "@choose": {
+      "description": "Choose"
+    },
+    "we_offer_different_packages": "We offer different type of packages",
+    "@we_offer_different_packages": {
+      "description": "We offer different type of packages"
+    },
+    "choose_your_preferred_package": "Choose your preferred package and continue your winning journey",
+    "@choose_your_preferred_package": {
+      "description": "Choose your preferred package and continue your winning journey"
+    },
+    "transfer_g": "Transfer",
+    "@transfer_g": {
+      "description": "Transfer"
+    },
+    "transfer_your_credit_to_other_account": "Transfer your credit to other account",
+    "@transfer_your_credit_to_other_account": {
+      "description": "Transfer your credit to other account"
+    },
+    "phone_number_g": "Phone Number",
+    "@phone_number_g": {
+      "description": "Phone Number"
+    },
+    "amount_g": "Amount",
+    "@amount_g": {
+      "description": "Description"
+    },
+    "transfer_button": "Transfer",
+    "@transfer_button":{
+      "description": "Transfer"
+    },
+    "payment_g": "Payment",
+    "@payment_g": {
+      "description": "Payment"
+    },
+    "make_payment": "Make a payment and dive into the thrilling contest, all while eagerly anticipating the exciting rewards that await you.",
+    "@make_payment": {
+      "description": "Make a payment and dive into the thrilling contest, all while eagerly anticipating the exciting rewards that await you."
+    },
+    "payment_methods_g": "Payment Methods",
+    "@payment_methods_g":{
+      "description": "Payment Methods"
+    },
+    "choose_your_preferred_payment_method": "Choose your preffered payment method below and proceed with the payment process.",
+    "@choose_your_preferred_payment_method":{
+      "description":"Choose your preffered payment method below and proceed with the payment process."
+    },
+    "deposit_g": "Deposit",
+    "@deposit_g": {
+      "description": "Deposit"
+    },
+    "package_g": "Package",
+    "@package_g": {
+      "description": "Package"
+    },
+    "next_g": "Next",
+    "@next_g": {
+      "description": "Next"
+    },
+    "deposit_girum": "Deposit",
+    "@deposit_girum": {
+      "description": "Deposit"
+    },
+    "top_up_your_credit_by_depositing_now": "Top up your credit by depositing now.",
+    "@top_up_your_credit_by_depositing_now": {
+      "description": "Top up your credit by depositing now."
+    },
+    "amount_girum": "Amount",
+    "@amount_girum": {
+      "description": "Amount"
+    },
+    "deposit_deposit_modal_g": "Deposit",
+    "@deposit_deposit_modal_g":{
+      "description": "Deposit"
+    },
+    "earned_g": "Earned",
+    "@earned_g":{
+      "description": "Earned"
+    },
+    "available_g": "Available",
+    "@available_g":{
+      "description": "Available"
+    },
+    "withdraw_g": "Withdraw",
+    "@withdraw_g" : {
+      "description": "Withdraw"
+    },
+    "commission_history_g": "Commission History",
+    "@commission_history_g": {
+      "description": "Commission History"
+    },
+    "you_have_not_yet_made_any_commissions": "You have not yet made any commissions",
+    "@you_have_not_yet_made_any_commissions": {
+      "description": "You have not yet made any commissions"
+    },
+    "withdrawal": "Withdrawal",
+    "@withdrawal":{
+      "description": "Withdrawal"
+    },
+    "commission_withdrawal": "Commission Withdrawal",
+    "@commission_withdrawal": {
+      "description": "Commission Withdrawal"
+    },
+    "choose_your_preferred_withdrawal_method": "Choose your preferred withdrawal method from the options below and proceed with the withdrawal process.",
+    "@choose_your_preferred_withdrawal_method": {
+      "description": "Choose your preferred withdrawal method from the options below and proceed with the withdrawal process."
+    },
+    "withdrawal_process": "Withdrawal Process",
+    "@withdrawal_process": {
+      "description": "Withdrawal Process"
+    },
+    "to_app_credit": "To App Credit",
+    "@to_app_credit": {
+      "description": "To App Credit"
+    },
+    "to_bank": "To Bank",
+    "@to_bank":{
+      "description": "To Bank"
+    },
+    "withdrawal_g": "Withdrawal",
+    "@withdrawal_g": {
+      "description": "Withdrawal"
+    },
+    "withdraw_girum": "Withdraw",
+    "@withdraw_girum": {
+      "description": "Withdraw"
+    },
+    "withdraw_wallet": "Withdraw",
+    "@withdraw_wallet": {
+      "description": "Withdraw"
+    },
+    "amount_wallet": "Amount",
+    "@amount_wallet": {
+      "description": "Amount"
+    },
+    "transaction_g": "Transaction",
+    "@transaction_g": {
+      "description": "Transaction"
+    },
+    "transaction_type_g": "Transaction Type",
+    "@transaction_type_g": {
+      "description": "Transaction Type"
+    },
+    "date_g": "Date",
+    "@date_g": {
+      "description": "Date"
+    },
+    "amount_transaction_page": "Amount",
+    "@amount_transaction_page":{
+      "description": "Amount"
+    },
+    "you_have_not_yet_won_any_awards_g": "You have not yet won any awards",
+    "@you_have_not_yet_won_any_awards_g": {
+      "description": "You have not yet won any awards"
+    },
+    "notes_g": "Notes",
+    "@notes_g": {
+      "description": "Notes"
+    },
+    "you_have_not_yet_created_a_note_g": "You have not yet created a note",
+    "@you_have_not_yet_created_a_note_g": {
+      "description": "You have not yet created a note"
+    },
+    "create_a_note": "Create A Note",
+    "@create_a_note": {
+      "description": "Create A Note"
+    },
+    "add_note": "Add Note",
+    "@add_note": {
+      "description": "Add Note"
+    },
+    "scout": "Scout",
+    "@scout": {
+      "description": "Scout"
+    },
+    "you_have_not_yet_added_a_player_to_the_watch_list": "You have not yet added a player to the watch list",
+    "@you_have_not_yet_added_a_player_to_the_watch_list": {
+      "description": "You have not yet added a player to the watch list"
+    },
+    "players": "Players",
+    "@players": {
+      "description": "Players"
+    },
+    "goalkeepers": "Goalkeepers",
+    "@goalkeepers": {
+      "description": "Goalkeepers"
+    },
+    "defenders": "Defenders",
+    "@defenders": {
+      "description": "Defenders"
+    },
+    "midfielders": "Midfielders",
+    "@midfielders": {
+      "description": "Midfielders"
+    },
+    "attackers": "Attackers",
+    "@attackers": {
+      "description": "Attackers"
+    },
+    "add_scout": "Add Scout",
+    "@add_scout": {
+      "description": "Add Scout"
+    },
+    "choose_the_players_you_want_to_add_in_the_scouts_list": "Choose the players you want to add in the scouts list",
+    "@choose_the_players_you_want_to_add_in_the_scouts_list": {
+      "description": "Choose the players you want to add in the scouts list"
+    },
+    "search_all_players_g": "Search all players",
+    "@search_all_players_g": {
+      "description": "Search all players"
+    },
+    "filter_by_club_g": "Filter by club",
+    "@filter_by_club_g": {
+      "description": "Filter by club"
+    },
+    "select_players": "Select players",
+    "@select_players": {
+      "description": "Select players"
+    },
+    "player_types": "GK, DEF, MID, FOR",
+    "@player_types":{
+      "description": "GK, DEF, MID, FOR"
+    },
+    "player_information_g": "Player information",
+    "@player_information_g": {
+      "description": "Player information"
+    },
+    "add_to_scout": "Add to scout",
+    "@add_to_scout": {
+      "description": "Add to scout"
+    },
+    "discover_the_winning_playbook_read_and_understand_the_guidelines": "Discover the winning playbook. Read and understand the guidelines and terms to play smarter and win bigger.",
+    "@discover_the_winning_playbook_read_and_understand_the_guidelines": {
+      "description": "Discover the winning playbook. Read and understand the guidelines and terms to play smarter and win bigger."
+    },
+    "check_below_to_see_how_your_players_score_points_on_loche": "Check below to see how your players score points on Loche. Discover how goals, assists, clean sheets, saves, and more contribute to your team’s overall score. Stay ahead of the game as you strategize and select players based on their potential to track up points",
+    "@check_below_to_see_how_your_players_score_points_on_loche": {
+      "description": "Check below to see how your players score points on Loche. Discover how goals, assists, clean sheets, saves, and more contribute to your team’s overall score. Stay ahead of the game as you strategize and select players based on their potential to track up points"
+    },
+    "attacking_points_g": "Attacking Points",
+    "@attacking_points_g": {
+      "description": "Attacking Points"
+    },
+    "goal_scored_by_a_forward": "Goal scored by a forward",
+    "@goal_scored_by_a_forward": {
+      "description": "Goal scored by a forward"
+    },
+    "a_goal_scored_by_a_player_included_as_a_forward": "A goal scored by a player included as a forward",
+    "@a_goal_scored_by_a_player_included_as_a_forward": {
+      "description": "A goal scored by a player included as a forward"
+    },
+    "goal_scored_by_a_midfielder": "Goal scored by a midfielder",
+    "@goal_scored_by_a_midfielder": {
+      "description": "Goal scored by a midfielder"
+    },
+    "a_goal_scored_by_a_player_included_as_a_midfielder": "A goal scored by a player included as midfielder",
+    "@a_goal_scored_by_a_player_included_as_a_midfielder": {
+      "description": "A goal scored by a player included as midfielder"
+    },
+    "goal_scored_by_a_defender": "Goal scored by a defender/GK",
+    "@goal_scored_by_a_defender": {
+      "description": "Goal scored by a defender/GK"
+    },
+    "a_goal_scored_by_a_player_included_as_a_defender": "A goal scored by a player included as a Defender/Goalkeeper",
+    "@a_goal_scored_by_a_player_included_as_a_defender": {
+      "description": "A goal scored by a player included as a Defender/Goalkeeper"
+    },
+    "assist_g": "Assist",
+    "@assist_g": {
+      "description": "Assist"
+    },
+    "the_player_who_makes_the_final_pass_before_a_goal": "The player who makes the final pass before a goal",
+    "@the_player_who_makes_the_final_pass_before_a_goal": {
+      "description": "The player who makes the final pass before a goal"
+    },
+    "shot_on_target_g": "Shot on target",
+    "@shot_on_target_g": {
+      "description": "Shot on target"
+    },
+    "if_the_ball_stays_within_the_goal_frame": "If the ball stays within the goal frame i.e. saved by the goalkeeper or scored",
+    "@if_the_ball_stays_within_the_goal_frame": {
+      "description": "If the ball stays within the goal frame i.e. saved by the goalkeeper or scored"
+    },
+    "two_chances_created": "Two chances created",
+    "@two_chances_created": {
+      "description": "Two chances created"
+    },
+    "interceptions_completed": "Interceptions Completed",
+    "@interceptions_completed": {
+      "description": "Interceptions Completed"
+    },
+    "penalty_saved_g": "Penalty saved",
+    "@penalty_saved_g": {
+      "description": "Penalty saved"
+    },
+    "two_goals_conceded": "2 goals conceded",
+    "@two_goals_conceded": {
+      "description": "2 goals conceded"
+    },
+    "remark_1": "Remark 1",
+    "@remark_1": {
+      "description": "Remark 1"
+    },
+    "remark_2": "Remark 2",
+    "@remark_2": {
+      "description": "Remark 2"
+    },
+    "remark_3": "Remark 3",
+    "@remark_3": {
+      "description": "Remark 3"
+    },
+    "remark_5": "If a player in the starting 11 doesn't play he will be subbed in by the bench player who has the highest point.",
+    "@remark_5": {
+      "description": "If a player in the starting 11 doesn't play he will be subbed in by the bench player who has the highest point."
+    },
+    "remark_6": "If the user's selected captain does not play a single minute the vice captain will automatically have his points doubled instead.",
+    "@remark_6": {
+      "description": "If the user's selected captain does not play a single minute the vice captain will automatically have his points doubled instead."
+    },
+    "remark_7": "Captains and vice Captains are not eligible for auto substitution.",
+    "@remark_7": {
+      "description": "Captains and vice Captains are not eligible for auto substitution."
+    },
+    "switch_player": "Switch Player",
+    "@switch_player": {
+      "description": "Switch Player"
+    },
+    "make_captain": "Make Captain",
+    "@make_captain": {
+      "description": "Make Captain"
+    },
+    "make_vice_captain": "Make Vice Captain",
+    "@make_vice_captain": {
+      "description": "Make Vice Captain"
+    },
+    "point_system_2": "Here you can find The point system and rules of Loche",
+    "@point_system_2": {
+      "description": "Here you can find The point system and rules of Loche"
+    },
+    "faq_2": "Find Frequently asked questions about Loche here",
+    "@faq_2": {
+      "description": "Find Frequently asked questions about Loche here"
+    },
+    "tac_2": "Find our Terms and conditions here",
+    "@tac_2": {
+      "description": "Find our Terms and conditions here"
+    },
+    "pp_2": "You can find our Privacy Policy here",
+    "@pp_2": {
+      "description": "You can find our Privacy Policy here"
+    },
+    "fd_2": "You can give any feedbacks about Loche here",
+    "@fd_2": {
+      "description": "You can give any feedbacks about Loche here"
+    },
+    "a_2": "You can find more about us here",
+    "@a_2": {
+      "description": "You can find more about us here"
+    },
+    "deposit_choice": "Deposit",
+    "@deposit_choice": {
+      "description": "Deposit"
+    },
+    "bank_types": "Bank Types",
+    "@bank_types": {
+      "description": "Bank Types"
+    },
+    "account_name": "Account Name",
+    "@account_name": {
+      "description": "Account Name"
+    },
+    "account_number": "Account Number",
+    "@account_number": {
+      "description": "Account Number"
+    },
+    "amount_2": "Amount",
+    "@amount_2": {
+      "description": "Amount"
+    }
+}
